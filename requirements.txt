@@ -1,1 +1,7 @@
-jinja2==2.8
+WebOb
+gevent
+ws4py
+peewee
+webapp2
+Jinja2
+python-memcached
